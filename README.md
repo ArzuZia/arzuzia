@@ -12,5 +12,5 @@
 ![Arzu's GitHub Stats](https://streak-stats.demolab.com/?user=ArzuZia&theme=radical)
 
 ### 📫 Let's Connect
-*   **LinkedIn:** linkedin.com/in/muhammad-arzu-ziaur-rohman-51a40b437
+*   **LinkedIn:** [Muhammad Arzu Ziaur Rohman](https://www.linkedin.com/in/muhammad-arzu-ziaur-rohman-51a40b437)
 *   **Email:** marzuziaurrohman@gmail.com
