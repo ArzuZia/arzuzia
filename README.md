@@ -9,7 +9,7 @@
 *   **Tools:** Visual Studio Code, Google AI Studio
 
 ### 📈 GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=ArzuZia&show_icons=true&theme=radical" alt="Arzu's GitHub Stats" />
+![Arzu's GitHub Stats](https://streak-stats.demolab.com/?user=ArzuZia&theme=radical)
 
 ### 📫 Let's Connect
 *   **LinkedIn:** 
