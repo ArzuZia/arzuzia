@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Arzu 👋
 
-<!--
-**ArzuZia/arzuzia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Mahasiswa Teknik Informatika di Politeknik Elektronika Negeri Surabaya (PENS).
+💻 Saat ini fokus mengeksplorasi pengembangan web frontend dan fundamental pemrograman.
+🚀 Sedang membangun proyek portofolio web pribadi dan bereksperimen dengan integrasi AI.
 
-Here are some ideas to get you started:
+### 🛠️ Tech Stack & Tools
+*   **Languages:** C, HTML, CSS
+*   **Tools:** Visual Studio Code, Google AI Studio
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📈 GitHub Stats
+[![Arzu's GitHub stats](https://github-readme-stats.vercel.app/api?username=USERNAME_GITHUB_KAMU&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+### 📫 Let's Connect
+*   **LinkedIn:** [Tautan LinkedIn]
+*   **Email:** [Alamat Email]
