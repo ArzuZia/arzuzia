@@ -9,7 +9,7 @@
 *   **Tools:** Visual Studio Code, Google AI Studio
 
 ### 📈 GitHub Stats
-![Arzu's GitHub Stats](https://streak-stats.demolab.com/?user=ArzuZia&theme=radical)
+![Arzu's GitHub Stats](https://streak-stats.demolab.com/?user=ArzuZia&theme=radical&v=1)
 
 ### 📫 Let's Connect
 *   **LinkedIn:** [Muhammad Arzu Ziaur Rohman](https://www.linkedin.com/in/muhammad-arzu-ziaur-rohman-51a40b437)
